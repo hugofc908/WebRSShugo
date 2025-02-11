@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>My Blog</title>
+  <title>DJ Totote</title>
   <link>https://www.example.com/</link>
-  <description>This is my personal blog.</description>
+  <description>Psicopatas temas que demostraran que las mujeres huyen de ti.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 11 Feb 2025 10:09:20 GMT</lastBuildDate>
 
   <item>
-    <title>Blog Entry 1</title>
+    <title>Let down</title>
     <link>https://www.example.com/blog-entry-1.html</link>
-    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
-<pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
+    <description>One day I am gonna grow wings, A chemical reaction Hysterical and useless, Hysterical and, Let down and hanging around,</description>
+<pubDate>Tue, 11 Feb 2025 10:11:00 GMT</pubDate>
 <guid>https://www.example.com/blog-entry-1.html</guid>
 </item>
 
   <item>
-    <title>Blog Entry 2</title>
+    <title>Five years</title>
     <link>https://www.example.com/blog-entry-2.html</link>
-    <description>Proin tincidunt auctor urna, non iaculis dolor cursus nec. Sed ut risus nisl. Morbi id elit eget erat aliquet ullamcorper.</description>
-    <pubDate>Tue, 10 Apr 2023 12:00:00 GMT</pubDate>
+    <description>heard telephones, opera house, favorite melodies, I saw boys, toys, electric irons and TV's</description>
+    <pubDate>Tue, 11 Feb 2025 10:12:00 GMT</pubDate>
     <guid>https://www.example.com/blog-entry-2.html</guid>
   </item>
   <item>
-    <title>Blog Entry 3</title>
+    <title>Sober to death</title>
     <link>https://www.example.com/blog-entry-3.html</link>
-    <description>Praesent eleifend metus et odio ullamcorper, at auctor elit venenatis. Sed cursus malesuada eros, vitae laoreet orci auctor.</description>
-    <pubDate>Tue, 2 Apr 2023 12:00:00 GMT</pubDate>
+    <description>Lovely lovely, In your jeans, frenzy, Another movie that I didn't watch with you (oh, oh, oh), Another movie and we're gonna have to move (no, no, no)</description>
+    <pubDate>Tue, 11 Feb 2025 10:13:00 GMT</pubDate>
     <guid>https://www.example.com/blog-entry-3.html</guid>
   </item>
 </channel>
