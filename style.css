@@ -42,7 +42,7 @@ nav a:hover {
 main {
     width: 80%;
     margin: 40px auto;
-    background-color: #c7c6f7;
+    background-color: #515272;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -71,7 +71,7 @@ article a {
     display: inline-block;
     text-decoration: none;
     color: #333;
-    background-color: #f2f2f2;
+    background-color: #515272;
     padding: 5px 10px;
     border-radius: 3px;
     margin-top: 10px;
